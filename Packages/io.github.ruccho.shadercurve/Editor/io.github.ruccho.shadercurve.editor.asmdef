@@ -1,0 +1,17 @@
+{
+    "name": "io.github.ruccho.shadercurve.editor",
+    "references": [
+        "GUID:ec7d262588cfac840903cd7699291162"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

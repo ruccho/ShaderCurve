@@ -1,0 +1,15 @@
+{
+    "name": "io.github.ruccho.shadercurve.shadergraph",
+    "version": "0.1.0",
+    "displayName": "Shader Curve: Shader Graph Package",
+    "description": "Provides additive nodes to evaluate AnimationCurve baked by ShaderCurve.",
+    "unity": "2019.4",
+    "dependencies": {
+        "io.github.ruccho.shadercurve": "0.1.0",
+        "com.unity.shadergraph": "7.5.3"
+    },
+    "author": {
+        "name": "ruccho",
+        "url": "https://ruccho.github.io/"
+    }
+}
