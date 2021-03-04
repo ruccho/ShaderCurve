@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_ShaderCurveSample_Graph
+  m_Name: Shader Graphs_ShaderCurveSample_Graph 2
   m_Shader: {fileID: -6465566751694194690, guid: 8ad2d65488d7834468fe99418604b86b,
     type: 3}
   m_ShaderKeywords: 
@@ -35,6 +35,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_879E759A: 1024
-    - Vector1_F1A2343F: 0
+    - Vector1_F1A2343F: 2
     - _CurveResolution: 1024
     m_Colors: []

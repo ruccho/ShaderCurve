@@ -2,6 +2,8 @@
 
 An utility for Unity to bake AnimationCurve into texture and evaluate them in shaders.
 
+![image](https://user-images.githubusercontent.com/16096562/110019909-502d0600-7d6c-11eb-88cf-3419fcf0dc27.gif)
+
 ## Requirements
 
 - Unity 2019.4+
@@ -113,4 +115,5 @@ Shader "Custom/ShaderCurveSample"
  - `io.github.ruccho.shadercurve.shadergraph` package is required to use evaluation node.
 
  - Use `Evaluate ShaderCurve` node.
+ 
  ![image](https://user-images.githubusercontent.com/16096562/110014344-08a37b80-7d66-11eb-97a3-7fabd5242e7c.png)
